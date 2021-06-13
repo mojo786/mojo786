@@ -1,0 +1,65 @@
+{
+  "account" : {
+    "userId" : 8191395532375216,
+    "installations" : [ {
+      "applicationName" : "Truecaller",
+      "installation" : {
+        "id" : "a1i0r--S5VUZv-HkqOmr_n1K-6AgyEhAUjTxB0wcj6_18nSrP5Oy0Ub5H5uYZQ-t",
+        "createdAt" : 1622456233834,
+        "ip" : "105.185.172.37",
+        "ipCountry" : "ZA",
+        "language" : "en",
+        "appDetails" : {
+          "version" : "11.61.8",
+          "store" : "GOOGLE_PLAY"
+        },
+        "deviceDetails" : {
+          "deviceId" : "e26542ef2d6c9a63",
+          "os" : "android",
+          "model" : "SM-J105F",
+          "simSerials" : [ "89838000000008824267" ],
+          "manufacturer" : "samsung",
+          "language" : "en"
+        },
+        "simDetails" : [ {
+          "active" : true
+        } ]
+      }
+    } ],
+    "activationDetails" : [ {
+      "number" : 27820447943,
+      "firstActivation" : 1620234623032,
+      "lastActivation" : 1622456233834,
+      "priority" : 1
+    } ]
+  },
+  "profile" : {
+    "userId" : 8191395532375216,
+    "firstName" : "Wardia",
+    "lastName" : "Allie",
+    "personalData" : {
+      "phoneNumbers" : [ {
+        "number" : 27820447943,
+        "countryCode" : "ZA"
+      } ],
+      "gender" : "Prefer not to say",
+      "address" : {
+        "country" : "ZA"
+      },
+      "onlineIds" : {
+        "email" : "wardia786@gmail.com"
+      },
+      "avatarUrl" : "https://storage.googleapis.com/tc-images-noneu/myview/1/457ece35be7c3156da256b4f6e1f9337/3",
+      "isAmbassador" : false,
+      "isTrueName" : true,
+      "privacy" : "Private"
+    }
+  },
+  "spammer" : false,
+  "contactRequest" : {
+    "sentCount" : 0,
+    "acceptedCount" : 0,
+    "blockedCount" : 0,
+    "blockedAll" : false
+  }
+}
